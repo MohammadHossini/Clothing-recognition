@@ -5,7 +5,7 @@ This project aims to develop an image recognition system that can accurately dif
 
 The dataset should consist of images of Lori Kurdish and Turkish clothing, organized into separate directories for training, validation, and testing. Ensure that each image is labeled correctly and placed in the corresponding directory.
 
-![Uploading output.png…]()
+<img src="C:\Users\Mohammad\Desktop\output.png" width="128"/>
 
 
 The project requires the following libraries:
