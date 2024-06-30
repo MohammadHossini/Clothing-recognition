@@ -5,6 +5,6 @@ The project requires the following libraries:
 
 - torch
 - torchvision
-numpy
-matplotlib
-Pillow
+- numpy
+- matplotlib
+- Pillow
