@@ -7,6 +7,7 @@ The dataset should consist of images of Lori Kurdish and Turkish clothing, organ
 ر
 
 ![output](https://github.com/MohammadHossini/Clothing-recognition/assets/106095825/1af46ccb-f22e-4c79-9aeb-165e57daaf72)
+
 The project requires the following libraries:
 
 - torch
