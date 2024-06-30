@@ -3,8 +3,8 @@ This project aims to develop an image recognition system that can accurately dif
 
 #The project requires the following libraries:
 
-torch
-torchvision
+. torch
+. torchvision
 numpy
 matplotlib
 Pillow
