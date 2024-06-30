@@ -3,7 +3,7 @@ This project aims to develop an image recognition system that can accurately dif
 
 The project requires the following libraries:
 
-<b>torch<b>
+. torch
 torchvision
 numpy
 matplotlib
