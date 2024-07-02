@@ -4,7 +4,7 @@ This project aims to develop an image recognition system that can accurately dif
 **Dataset**
 
 The dataset should consist of images of Lori Kurdish and Turkish clothing, organized into separate directories for training, validation, and testing. Ensure that each image is labeled correctly and placed in the corresponding directory.
-ر
+
 
 ![output](https://github.com/MohammadHossini/Clothing-recognition/assets/106095825/1af46ccb-f22e-4c79-9aeb-165e57daaf72)
 
